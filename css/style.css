@@ -1,0 +1,88 @@
+        @import url('https://fonts.googleapis.com/css?family=Numans');
+        html,body{
+            background-image: url('../pictures/background_login.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100%;
+            font-family: 'Numans', sans-serif;
+        }
+        .container {
+            height: 100%;
+            align-content: center;
+        }
+
+        .card {
+			height: 400px;
+			width: 350px;
+			margin-top: auto;
+			margin-bottom: auto;
+			background: #f39c12;
+			position: relative;
+			display: flex;
+			justify-content: center;
+			flex-direction: column;
+			padding: 10px;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			-moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			border-radius: 5px;
+            background-color: rgba(107, 97, 97, 0.5) !important;
+        }
+
+        .card-header h3{
+            color: white;
+        }
+
+        input:focus{
+        outline: 0 0 0 0  !important;
+        box-shadow: 0 0 0 0 !important;
+
+        }
+        .remember{
+            color: white;
+        }
+
+        .remember input {
+        width: 20px;
+        height: 20px;
+        margin-left: 15px;
+        margin-right: 5px;
+        }
+        .login_btn{
+        color: black;
+        background-color: rgb(190, 113, 113);
+        width: 100px;
+        }
+
+        .login_btn:hover{
+        color: black;
+        background-color: white;
+        }
+
+        .links{
+        color: white;
+        }
+
+        .links a{
+        margin-left: 4px;
+        }
+        .input-group-text {
+			background: #e27c71 !important;
+			color: white !important;
+			border: 0 !important;
+			border-radius: 0.25rem 0 0 0.25rem !important;
+		}
+        .hidden{
+            visibility: hidden;
+            display: none;
+        }
+        .visible{
+            visibility: visible;
+        }
+        .progress:after {
+            width: 100%;
+        }
+
+        .progress-bar {
+            background-color: #9b6a6a; /* Hier die gewünschte Hintergrundfarbe eintragen */
+        }
