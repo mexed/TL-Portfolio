@@ -76,7 +76,7 @@
 						<div class="section">
 							<h2>Berufserfahrung</h2>
 							<h3>Ausbildung Fachinformatiker - Anwendungsentwicklung</h3>
-							<p>Deutsche Vetriebsgesellschaft mbH, 2013-2015</p>
+							<p>Deutsche Vetriebsgesellschaft mbH (DVG), 2013-2015</p>
 							<p>Berufsausbildung,- Softwareentwicklung mit VBA/ Access</p>
 							<h3>Second-Level-Support, Netzwerk und Serveradministrator</h3>
 							<p>NetCologne, 2016</p>
